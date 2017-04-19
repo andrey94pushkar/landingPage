@@ -21,6 +21,7 @@ namespace WebApplication1.Controllers
 
         public MeController()
         {
+            /////todo
         }
 
         public MeController(ApplicationUserManager userManager)
